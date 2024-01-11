@@ -15,4 +15,4 @@ testada:
 <!-- MD Links & Images -->
 
 [project-screenshot]: ./public/preview.png
-[project-link]: https://xx.vercel.app/
+[project-link]: #
