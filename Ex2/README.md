@@ -65,4 +65,4 @@ Por fim, eu tenho um `<span>` com `id` output que eu atribuo ao `textContent` de
 <!-- MD Links & Images -->
 
 [project-screenshot]: ./public/preview.png
-[project-link]: #
+[project-link]: https://teste-siimp.vercel.app/Ex2/exercicio_2.html
