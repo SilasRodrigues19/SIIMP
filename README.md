@@ -40,5 +40,5 @@ Clicando na coluna `Site`, redireciona para a página online com o exercício
 
 
 [Ex4-preview]: ./Ex4/public/preview.png
-[Ex4-demo]: https://teste-siimp.vercel.app/Ex4/exercicio_3.html
+[Ex4-demo]: https://teste-siimp.vercel.app/Ex4/exercicio_4.html
 [Ex4-source]: https://github.com/SilasRodrigues19/SIIMP/tree/main/Ex4
