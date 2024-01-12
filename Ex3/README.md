@@ -11,6 +11,11 @@ os dígitos, como no exemplo ao lado:
 
 Explicação:
 
+Criei uma função chamada `validateInput` que é acionada no evento `oninput` e essa função é utilizada para trocar o
+o dígito 0 por vazio, já que 0 é irrelevante pra soma e só deixa o input "poluído". Dessa forma o usuário não consegue
+pressionar o 0 e não perde o resto dos dígitos do input
+
+
 Criei uma função chamada `getSumOfDigits()` que será executada durante o evento de click
 do botão `Confirmar`.
 

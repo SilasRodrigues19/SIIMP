@@ -22,7 +22,7 @@
         <li>6472529 = 35</li>
       </ul>
 
-      <input id="digits" type="number" placeholder="Insira dígitos positivos...">
+      <input oninput="return validateInput()" id="digits" type="number" placeholder="Insira dígitos positivos...">
       <span id="output"></span>
       <button type="button" onclick="getSumOfDigits()">Confirmar</button>
     </form>

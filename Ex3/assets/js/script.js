@@ -6,6 +6,11 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
 });
 
+const validateInput = () => {
+  let inputElement = document.querySelector('#digits');
+  inputElement.value = inputElement.value.replace(/0/g, '');
+}
+
 const getSumOfDigits = () => {
   let inputValue = document.querySelector('#digits').value;
 
