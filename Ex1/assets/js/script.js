@@ -8,7 +8,7 @@ form.addEventListener('submit', (e) => {
 });
 
 const removeVowels = () => {
-  const inputElement = document.querySelector('#palavra');
+  const inputElement = document.querySelector('#phrase');
   const inputValue = inputElement.value;
 
 
