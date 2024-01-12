@@ -17,6 +17,8 @@ Clicando na coluna `Site`, redireciona para a página online com o exercício
 | [![Preview][Ex2-preview]][Ex2-source]            | [![Preview][Ex2-preview]][Ex2-demo]               |
 | Exercício 3 - Código                             | Exercício 3 - Site                                |
 | [![Preview][Ex3-preview]][Ex3-source]            | [![Preview][Ex3-preview]][Ex3-demo]               |
+| Exercício 4 - Código                             | Exercício 4 - Site                                |
+| [![Preview][Ex4-preview]][Ex4-source]            | [![Preview][Ex4-preview]][Ex4-demo]               |
 
 
 
@@ -35,3 +37,8 @@ Clicando na coluna `Site`, redireciona para a página online com o exercício
 [Ex3-preview]: ./Ex3/public/preview.png
 [Ex3-demo]: https://teste-siimp.vercel.app/Ex3/exercicio_3.html
 [Ex3-source]: https://github.com/SilasRodrigues19/SIIMP/tree/main/Ex3
+
+
+[Ex4-preview]: ./Ex4/public/preview.png
+[Ex4-demo]: https://teste-siimp.vercel.app/Ex4/exercicio_3.html
+[Ex4-source]: https://github.com/SilasRodrigues19/SIIMP/tree/main/Ex4
