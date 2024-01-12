@@ -1,10 +1,12 @@
-Exercício 1
+Exercício 2
 
-Crie uma página em HTML e PHP/JAVASCRIPT que receba uma
-palavra e que remova todas as vogais desta palavra, como no
-exemplo abaixo
-PS.: Nenhuma palavra com acentos e caracteres especiais será
-testada:
+Crie uma página em HTML e PHP ou
+JAVASCRIPT que receba uma frase e retorne
+a palavra que conter a maior quantidade de
+caracteres, como no exemplo ao lado:
+PS.: Se a frase possuir mais de uma palavra com
+a mesma quantidade de caracteres, retorne
+qualquer uma delas
 
 
 [![Preview][project-screenshot]][project-link]
