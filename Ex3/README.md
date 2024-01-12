@@ -1,4 +1,4 @@
-Exercício 2
+Exercício 3
 
 Crie uma página em HTML e PHP ou
 JAVASCRIPT que receba um valor numérico
