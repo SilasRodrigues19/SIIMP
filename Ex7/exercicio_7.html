@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Exercício 7</title>
+  <link rel="stylesheet" href="./assets/css/style.min.css">
+</head>
+<body>
+  
+
+  <main>
+    <form id="form">
+      <label for="number">Insira um 2 números para retornar a soma de todos números entre eles, incluindo os mesmos</label>
+
+      <h1>Exemplos</h1>
+      
+      <ul class="list_example">
+        <li>2 + 7 = 27</li>
+        <li>7 + 3 = 0</li>
+        <li>1 + 5 = 15</li>
+        <li>3 + 6 = 18</li>
+        <li>1 + 0 = 0</li>
+        <li>-4 + 2 = -7</li>
+        <li>4 + 12 = 72</li>
+        <li>7 + 7 = 7</li>
+      </ul>
+
+
+      <div class="input_fields">
+        <input id="number_one" type="number" placeholder="Insira um número...">
+        <input id="number_two" type="number" placeholder="Insira um número...">
+      </div>
+      <button type="button" onclick="handleSum()">Confirmar</button>
+      <div id="output"></div>
+    </form>
+  </main>
+  
+
+  <script src="./assets/js/script.js"></script>
+</body>
+</html>
