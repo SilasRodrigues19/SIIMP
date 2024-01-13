@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Exercício 6</title>
+  <link rel="stylesheet" href="./assets/css/style.min.css">
+</head>
+<body>
+  
+
+  <main>
+    <form id="form">
+      <label for="word">Insira uma palavra para verificar se pode se tornar um palíndromo ao remover uma letra</label>
+
+      <h1>Exemplos</h1>
+      
+      <ul class="list_example">
+        <li>aibofobia - <span class="is-palindrome">É um palíndromo</span></li>
+        <li>omissíssimos - <span class="can-become-palindrome">Pode se tornar um palíndromo</span></li>
+        <li>Gustavo Fernandes - <span class="not-palindrome">Não é um palíndromo</span></li>
+        <li>Anotaram a data da maratona - <span class="is-palindrome">É um palíndromo</span></li>
+        <li>remviver - <span class="can-become-palindrome">Pode se tornar um palíndromo</span></li>
+      </ul>
+
+
+      <input id="word" type="text" placeholder="Insira uma palavra...">
+      <button type="button" onclick="isPalindrome()">Confirmar</button>
+      <div id="output"></div>
+    </form>
+  </main>
+  
+
+  <script src="./assets/js/script.js"></script>
+</body>
+</html>
