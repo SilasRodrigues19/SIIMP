@@ -65,7 +65,7 @@ Exercício 7 - Foi o mais fácil porque já que eu preciso retornar a soma entre
 
 
 MAIS FÁCIL: 7
-MAIS DIFÍCIL: 5 (Não parecia que seria, mas pra mim foi)
+MAIS DIFÍCIL: 6 (Não parecia que seria, mas pra mim foi)
 
 
 <!-- Markdown -->
